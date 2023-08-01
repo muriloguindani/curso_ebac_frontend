@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    margin-top: 250px;
+    background-color: rgb(216, 214, 214);
+    font-family: sans-serif;
+}
+
+input, button{
+    padding: 8px;
+    font-size: 18px;
+    border: none;
+    font-weight: bold;
+}
+button{
+    background-color: rgb(75, 194, 75);
+    cursor: pointer;
+    color: white;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+ul li{
+    margin-top: 10px;
+    font-size: 19px;
+    cursor: pointer;
+}
+
+.riscado{
+    text-decoration: line-through;
+}
