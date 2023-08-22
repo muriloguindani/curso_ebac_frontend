@@ -1,0 +1,10 @@
+form label{
+    font-weight: 500;
+}
+
+form button{
+    margin-top: 20px;
+    padding: 80px;
+    width: 20%;
+}
+
